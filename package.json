@@ -1,0 +1,13 @@
+{
+  "name": "soscu",
+  "version": "1.0.0",
+  "description": "Forward OSC messages received from a serial port using UDP",
+  "main": "index.js",
+  "author": "David Granström",
+  "license": "",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "minimist": "^1.2.0",
+    "osc": "^1.3.0"
+  }
+}
